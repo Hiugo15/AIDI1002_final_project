@@ -3,6 +3,7 @@ Final project for course AIDI1002 Machine Learning Programming, team members: Hu
 
 Research Paper 
 https://arxiv.org/abs/2210.00586
+Github repository used: https://github.com/aliborji/GFW
 
 
 The original paper performs a comparison between 3 image generated models, Stable Diffusion, Midjourney and DALL-E 2, and score their performance using the FID score methodology in human faces.
