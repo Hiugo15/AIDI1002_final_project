@@ -15,8 +15,8 @@ The purpose of this project is to expand the exposure of the original work into 
 This project uses real images obtained from Google Image https://storage.googleapis.com/openimages/web/index.html
 Instructions to download images can be located in https://sharmaji27.medium.com/easiest-way-to-download-data-from-the-open-image-dataset-553dccfb92d8
 
-To replicate this results use the datasets contained in this repository and store them in your local device
-A Hugging face Access token is necessary to access to the Stable Diffusion model, once created, write it in cell 3 of StableDiffusion_Gen.ipynb
+To replicate the results of this project use the datasets contained in this repository and store them in your local device, run the code in Scoring_LOCAL_ownDataset.ipynb
+To generate your own images, a Hugging face Access token is necessary to access to the Stable Diffusion model, once created, write it in cell 3 of StableDiffusion_Gen.ipynb
 
 In order to replicate the results of the original paper, find the datasets used in https://drive.google.com/file/d/16BXO1fgN08UGLLeA5ZNU9bhwAkcAOdci/view
 and run the code in Scoring_LOCAL.ipynb, this is a light version of the code used in the original paper, adapted to be used in a Jupyter notebook environment and local device storage
