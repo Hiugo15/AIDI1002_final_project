@@ -1,0 +1,18 @@
+
+Research paper
+https://arxiv.org/abs/2210.00586
+
+GitHub repository of the research paper
+https://github.com/aliborji/GFW
+
+Datasets used in the research paper
+https://drive.google.com/file/d/16BXO1fgN08UGLLeA5ZNU9bhwAkcAOdci/view
+
+Link to download real images
+https://storage.googleapis.com/openimages/web/index.html
+
+instructions on how to download from google images
+https://sharmaji27.medium.com/easiest-way-to-download-data-from-the-open-image-dataset-553dccfb92d8
+
+Our Project's GitHub
+https://github.com/Hiugo15/AIDI1002_final_project
